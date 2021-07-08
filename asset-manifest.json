@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Bookmark-app/static/css/main.45820526.chunk.css",
+    "main.js": "/Bookmark-app/static/js/main.c9cbfbdf.chunk.js",
+    "main.js.map": "/Bookmark-app/static/js/main.c9cbfbdf.chunk.js.map",
+    "runtime-main.js": "/Bookmark-app/static/js/runtime-main.c732c2bd.js",
+    "runtime-main.js.map": "/Bookmark-app/static/js/runtime-main.c732c2bd.js.map",
+    "static/js/2.fffa0787.chunk.js": "/Bookmark-app/static/js/2.fffa0787.chunk.js",
+    "static/js/2.fffa0787.chunk.js.map": "/Bookmark-app/static/js/2.fffa0787.chunk.js.map",
+    "static/js/3.ce3979d0.chunk.js": "/Bookmark-app/static/js/3.ce3979d0.chunk.js",
+    "static/js/3.ce3979d0.chunk.js.map": "/Bookmark-app/static/js/3.ce3979d0.chunk.js.map",
+    "index.html": "/Bookmark-app/index.html",
+    "static/css/main.45820526.chunk.css.map": "/Bookmark-app/static/css/main.45820526.chunk.css.map",
+    "static/js/2.fffa0787.chunk.js.LICENSE.txt": "/Bookmark-app/static/js/2.fffa0787.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c732c2bd.js",
+    "static/js/2.fffa0787.chunk.js",
+    "static/css/main.45820526.chunk.css",
+    "static/js/main.c9cbfbdf.chunk.js"
+  ]
+}
